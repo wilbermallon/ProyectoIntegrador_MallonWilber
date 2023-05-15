@@ -1,6 +1,7 @@
 .row{
     padding: 20px;
-    background-color: rgb(49, 140, 161);
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
 }
 footer{
     color: rgb(77, 8, 109);
